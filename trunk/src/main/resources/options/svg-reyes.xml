@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options xmlns="http://code.google.com/p/xq-reyes/" 
+		pipeline="svg-reyes" mode="normal"><!-- normal | debug -->
+  <pipeline/><!--  stop-after="svg:bucket-processor" -->
+  <bucket size="16"/>
+  <shading rate="1"/>
+  <image resolution="72" resUnits="dpi" format="tiff" channels="rgb" bitDepth="8"/>
+</options>

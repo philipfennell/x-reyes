@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options xmlns="http://code.google.com/p/xq-reyes/" pipeline="svg-smil">
+  <pipeline/><!--  stop-after="svg:bucket-processor" -->
+  <frame rate="25"/>
+  <precision>####0.0##</precision>
+  <view mode="normal"/><!-- (normal | ghost | onionSkin) -->
+  <application src="../interface/config/controller.xml"/>
+</options>

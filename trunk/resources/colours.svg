@@ -1,0 +1,3123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg:svg xmlns:color="project.x.functions.color"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+         xmlns:pxf="project.x.functions"
+         xmlns:svg="http://www.w3.org/2000/svg"
+         x="0px"
+         y="0px"
+         width="260px"
+         height="755px"
+         viewBox="0 0 210 755">
+   <svg:g transform="translate(10, 10)">
+      <svg:g transform="translate(0, 0px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aliceblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aliceblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 5px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="antiquewhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">antiquewhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 10px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aqua" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aqua</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 15px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aquamarine" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 20px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="azure" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">azure</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 25px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="beige" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">beige</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 30px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="bisque" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">bisque</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 35px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="black" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">black</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 40px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blanchedalmond"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blanchedalmond</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 45px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 50px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blueviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blueviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 55px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="brown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">brown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 60px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="burlywood" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">burlywood</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 65px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cadetblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cadetblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 70px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chartreuse" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chartreuse</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 75px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chocolate" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chocolate</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 80px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="coral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">coral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 85px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornflowerblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornflowerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 90px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornsilk" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornsilk</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 95px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="crimson" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">crimson</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 100px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 105px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 110px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 115px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 120px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 125px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 130px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 135px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkkhaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkkhaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 140px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkmagenta"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkmagenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 145px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkolivegreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkolivegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 150px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 155px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 160px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 165px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darksalmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darksalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 170px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 175px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 180px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 185px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 190px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 195px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 200px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deeppink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deeppink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 205px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deepskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deepskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 210px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 215px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 220px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dodgerblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dodgerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 225px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="firebrick" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">firebrick</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 230px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="floralwhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">floralwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 235px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="forestgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">forestgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 240px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="fuchsia" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">fuchsia</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 245px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gainsboro" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gainsboro</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 250px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ghostwhite" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ghostwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 255px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gold" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gold</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 260px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="goldenrod" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">goldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 265px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 270px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="green" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">green</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 275px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="greenyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">greenyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 280px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="grey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">grey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 285px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="honeydew" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">honeydew</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 290px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="hotpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">hotpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 295px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indianred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indianred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 300px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indigo" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indigo</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 305px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ivory" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ivory</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 310px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="khaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">khaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 315px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavender" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavender</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 320px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavenderblush"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavenderblush</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 325px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lawngreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lawngreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 330px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lemonchiffon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lemonchiffon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 335px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 340px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcoral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcoral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 345px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 350px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgoldenrodyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgoldenrodyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 355px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 360px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 365px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 370px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 375px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsalmon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 380px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 385px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 390px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 395px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 400px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsteelblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsteelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 405px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 410px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lime" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lime</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 415px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="limegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">limegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 420px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="linen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">linen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 425px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="magenta" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">magenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 430px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="maroon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">maroon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 435px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumaquamarine"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumaquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 440px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 445px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumorchid"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 450px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumpurple"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumpurple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 455px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 460px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 465px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumspringgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumspringgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 470px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 475px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumvioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumvioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 480px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="midnightblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">midnightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 485px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mintcream" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mintcream</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 490px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mistyrose" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mistyrose</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 495px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="moccasin" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">moccasin</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 500px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navajowhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navajowhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 505px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navy" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navy</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 510px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="oldlace" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">oldlace</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 515px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olive" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olive</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 520px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olivedrab" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olivedrab</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 525px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 530px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orangered" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orangered</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 535px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 540px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 545px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 550px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="paleturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">paleturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 555px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palevioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palevioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 560px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="papayawhip" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">papayawhip</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 565px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peachpuff" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peachpuff</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 570px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peru" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peru</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 575px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="pink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">pink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 580px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="plum" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">plum</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 585px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="powderblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">powderblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 590px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="purple" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">purple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 595px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="red" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">red</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 600px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="rosybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">rosybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 605px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="royalblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">royalblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 610px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="saddlebrown"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">saddlebrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 615px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="salmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">salmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 620px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sandybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sandybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 625px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seagreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 630px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seashell" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seashell</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 635px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sienna" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sienna</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 640px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="silver" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">silver</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 645px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="skyblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">skyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 650px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slateblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 655px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 660px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 665px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="snow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">snow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 670px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="springgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">springgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 675px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="steelblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">steelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 680px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 685px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="teal" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">teal</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 690px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="thistle" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">thistle</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 695px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tomato" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tomato</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 700px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="turquoise" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">turquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 705px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="violet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">violet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 710px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="wheat" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">wheat</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 715px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="white" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">white</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 720px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="whitesmoke" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">whitesmoke</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 725px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 730px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellowgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellowgreen</svg:text>
+      </svg:g>
+   </svg:g>
+   <svg:g transform="translate(70, 10)">
+      <svg:g transform="translate(0, 0px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="black" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">black</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 5px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 10px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 15px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 20px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 25px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gainsboro" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gainsboro</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 30px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 35px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="grey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">grey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 40px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 45px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 50px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="silver" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">silver</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 55px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="white" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">white</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 60px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="whitesmoke" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">whitesmoke</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 65px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="brown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">brown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 70px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 75px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="firebrick" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">firebrick</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 80px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indianred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indianred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 85px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcoral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcoral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 90px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="maroon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">maroon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 95px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="red" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">red</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 100px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="rosybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">rosybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 105px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="snow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">snow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 110px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mistyrose" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mistyrose</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 115px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="salmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">salmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 120px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tomato" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tomato</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 125px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darksalmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darksalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 130px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="coral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">coral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 135px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orangered" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orangered</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 140px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsalmon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 145px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sienna" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sienna</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 150px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seashell" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seashell</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 155px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chocolate" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chocolate</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 160px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="saddlebrown"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">saddlebrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 165px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sandybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sandybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 170px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peachpuff" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peachpuff</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 175px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peru" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peru</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 180px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="linen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">linen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 185px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="bisque" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">bisque</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 190px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 195px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="burlywood" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">burlywood</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 200px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="antiquewhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">antiquewhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 205px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 210px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navajowhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navajowhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 215px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blanchedalmond"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blanchedalmond</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 220px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="papayawhip" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">papayawhip</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 225px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="moccasin" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">moccasin</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 230px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 235px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="wheat" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">wheat</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 240px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="oldlace" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">oldlace</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 245px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="floralwhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">floralwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 250px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 255px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="goldenrod" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">goldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 260px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornsilk" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornsilk</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 265px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gold" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gold</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 270px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lemonchiffon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lemonchiffon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 275px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="khaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">khaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 280px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 285px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkkhaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkkhaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 290px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="beige" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">beige</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 295px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ivory" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ivory</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 300px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgoldenrodyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgoldenrodyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 305px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 310px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olive" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olive</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 315px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 320px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olivedrab" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olivedrab</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 325px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellowgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellowgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 330px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkolivegreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkolivegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 335px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="greenyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">greenyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 340px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chartreuse" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chartreuse</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 345px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lawngreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lawngreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 350px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 355px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 360px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="forestgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">forestgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 365px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="green" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">green</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 370px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="honeydew" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">honeydew</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 375px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 380px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lime" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lime</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 385px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="limegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">limegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 390px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 395px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seagreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 400px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 405px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="springgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">springgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 410px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mintcream" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mintcream</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 415px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumspringgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumspringgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 420px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumaquamarine"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumaquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 425px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aquamarine" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 430px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="turquoise" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">turquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 435px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 440px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 445px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aqua" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aqua</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 450px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="azure" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">azure</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 455px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 460px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 465px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 470px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 475px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 480px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="paleturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">paleturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 485px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="teal" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">teal</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 490px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 495px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cadetblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cadetblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 500px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="powderblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">powderblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 505px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 510px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deepskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deepskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 515px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="skyblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">skyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 520px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 525px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="steelblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">steelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 530px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aliceblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aliceblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 535px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dodgerblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dodgerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 540px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 545px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 550px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 555px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 560px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsteelblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsteelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 565px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornflowerblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornflowerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 570px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="royalblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">royalblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 575px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 580px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 585px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ghostwhite" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ghostwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 590px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavender" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavender</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 595px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 600px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="midnightblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">midnightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 605px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navy" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navy</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 610px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slateblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 615px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 620px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 625px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumpurple"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumpurple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 630px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blueviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blueviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 635px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indigo" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indigo</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 640px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 645px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 650px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumorchid"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 655px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkmagenta"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkmagenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 660px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="fuchsia" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">fuchsia</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 665px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="magenta" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">magenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 670px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="plum" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">plum</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 675px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="purple" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">purple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 680px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="thistle" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">thistle</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 685px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="violet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">violet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 690px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 695px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumvioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumvioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 700px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deeppink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deeppink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 705px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="hotpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">hotpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 710px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavenderblush"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavenderblush</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 715px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palevioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palevioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 720px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="crimson" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">crimson</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 725px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="pink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">pink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 730px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightpink</svg:text>
+      </svg:g>
+   </svg:g>
+   <svg:g transform="translate(130, 10)">
+      <svg:g transform="translate(0, 0px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aqua" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aqua</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 5px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 10px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chartreuse" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chartreuse</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 15px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 20px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 25px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 30px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 35px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkmagenta"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkmagenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 40px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 45px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 50px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 55px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 60px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deepskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deepskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 65px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="fuchsia" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">fuchsia</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 70px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gold" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gold</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 75px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="green" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">green</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 80px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indigo" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indigo</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 85px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lawngreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lawngreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 90px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lime" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lime</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 95px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="magenta" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">magenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 100px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="maroon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">maroon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 105px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 110px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumspringgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumspringgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 115px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navy" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navy</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 120px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olive" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olive</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 125px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 130px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orangered" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orangered</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 135px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="purple" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">purple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 140px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="red" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">red</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 145px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="springgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">springgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 150px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="teal" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">teal</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 155px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 160px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 165px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deeppink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deeppink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 170px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="crimson" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">crimson</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 175px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumvioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumvioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 180px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dodgerblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dodgerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 185px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="saddlebrown"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">saddlebrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 190px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chocolate" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chocolate</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 195px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="goldenrod" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">goldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 200px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 205px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="greenyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">greenyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 210px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blueviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blueviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 215px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="firebrick" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">firebrick</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 220px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="midnightblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">midnightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 225px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="limegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">limegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 230px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellowgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellowgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 235px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="forestgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">forestgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 240px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 245px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olivedrab" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olivedrab</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 250px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="brown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">brown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 255px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tomato" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tomato</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 260px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sienna" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sienna</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 265px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="turquoise" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">turquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 270px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="royalblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">royalblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 275px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peru" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peru</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 280px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="coral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">coral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 285px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seagreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 290px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 295px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 300px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="steelblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">steelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 305px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sandybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sandybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 310px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumorchid"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 315px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="hotpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">hotpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 320px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornflowerblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornflowerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 325px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 330px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 335px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slateblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 340px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkolivegreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkolivegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 345px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indianred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indianred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 350px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="salmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">salmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 355px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsalmon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 360px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumaquamarine"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumaquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 365px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aquamarine" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 370px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumpurple"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumpurple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 375px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palevioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palevioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 380px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 385px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darksalmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darksalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 390px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcoral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcoral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 395px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 400px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="violet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">violet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 405px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkkhaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkkhaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 410px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="skyblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">skyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 415px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="khaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">khaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 420px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cadetblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cadetblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 425px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 430px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 435px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 440px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 445px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="burlywood" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">burlywood</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 450px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 455px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navajowhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navajowhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 460px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="moccasin" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">moccasin</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 465px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 470px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 475px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="plum" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">plum</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 480px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peachpuff" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peachpuff</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 485px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="wheat" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">wheat</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 490px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="paleturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">paleturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 495px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 500px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="pink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">pink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 505px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 510px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="rosybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">rosybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 515px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="powderblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">powderblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 520px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="bisque" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">bisque</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 525px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 530px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 535px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 540px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 545px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsteelblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsteelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 550px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blanchedalmond"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blanchedalmond</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 555px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lemonchiffon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lemonchiffon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 560px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="papayawhip" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">papayawhip</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 565px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgoldenrodyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgoldenrodyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 570px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="antiquewhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">antiquewhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 575px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornsilk" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornsilk</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 580px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 585px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 590px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mistyrose" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mistyrose</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 595px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="thistle" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">thistle</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 600px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="beige" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">beige</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 605px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="oldlace" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">oldlace</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 610px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavender" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavender</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 615px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="linen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">linen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 620px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seashell" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seashell</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 625px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aliceblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aliceblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 630px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="azure" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">azure</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 635px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="floralwhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">floralwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 640px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="honeydew" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">honeydew</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 645px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ivory" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ivory</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 650px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavenderblush"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavenderblush</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 655px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mintcream" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mintcream</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 660px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ghostwhite" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ghostwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 665px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="snow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">snow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 670px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="black" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">black</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 675px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 680px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 685px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 690px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 695px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gainsboro" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gainsboro</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 700px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 705px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="grey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">grey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 710px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 715px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 720px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="silver" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">silver</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 725px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="white" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">white</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 730px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="whitesmoke" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">whitesmoke</svg:text>
+      </svg:g>
+   </svg:g>
+   <svg:g transform="translate(190, 10)">
+      <svg:g transform="translate(0, 0px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aliceblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aliceblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 5px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aqua" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aqua</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 10px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="aquamarine" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">aquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 15px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="azure" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">azure</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 20px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="bisque" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">bisque</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 25px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blanchedalmond"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blanchedalmond</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 30px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 35px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chartreuse" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chartreuse</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 40px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="coral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">coral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 45px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornsilk" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornsilk</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 50px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 55px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 60px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deeppink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deeppink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 65px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="deepskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">deepskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 70px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dodgerblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dodgerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 75px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="floralwhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">floralwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 80px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="fuchsia" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">fuchsia</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 85px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ghostwhite" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ghostwhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 90px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gold" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gold</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 95px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="greenyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">greenyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 100px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="honeydew" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">honeydew</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 105px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="hotpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">hotpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 110px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="ivory" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">ivory</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 115px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavenderblush"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavenderblush</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 120px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lemonchiffon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lemonchiffon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 125px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 130px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightpink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightpink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 135px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsalmon"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 140px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 145px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lime" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lime</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 150px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="magenta" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">magenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 155px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mintcream" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mintcream</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 160px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mistyrose" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mistyrose</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 165px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="moccasin" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">moccasin</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 170px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navajowhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navajowhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 175px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orange" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orange</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 180px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orangered" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orangered</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 185px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="papayawhip" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">papayawhip</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 190px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peachpuff" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peachpuff</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 195px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="pink" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">pink</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 200px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="red" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">red</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 205px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seashell" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seashell</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 210px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="snow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">snow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 215px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="springgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">springgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 220px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tomato" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tomato</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 225px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="white" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">white</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 230px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellow" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 235px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="oldlace" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">oldlace</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 240px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lawngreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lawngreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 245px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 250px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="antiquewhite"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">antiquewhite</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 255px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lavender" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lavender</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 260px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgoldenrodyellow"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgoldenrodyellow</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 265px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightskyblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightskyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 270px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="linen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">linen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 275px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumspringgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumspringgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 280px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="salmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">salmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 285px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="beige" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">beige</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 290px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="wheat" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">wheat</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 295px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="whitesmoke" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">whitesmoke</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 300px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sandybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sandybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 305px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="khaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">khaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 310px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightcoral" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightcoral</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 315px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 320px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 325px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palegoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palegoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 330px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="paleturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">paleturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 335px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="violet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">violet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 340px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cornflowerblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cornflowerblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 345px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="skyblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">skyblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 350px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darksalmon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darksalmon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 355px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 360px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="powderblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">powderblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 365px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="blueviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">blueviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 370px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="royalblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">royalblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 375px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="turquoise" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">turquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 380px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="burlywood" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">burlywood</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 385px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightsteelblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightsteelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 390px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="plum" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">plum</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 395px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="crimson" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">crimson</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 400px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gainsboro" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gainsboro</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 405px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumpurple"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumpurple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 410px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="palevioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">palevioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 415px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="goldenrod" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">goldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 420px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="orchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">orchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 425px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="thistle" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">thistle</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 430px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkviolet" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkviolet</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 435px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 440px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 445px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumorchid"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 450px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="chocolate" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">chocolate</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 455px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="tan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">tan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 460px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 465px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumturquoise"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumturquoise</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 470px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indianred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indianred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 475px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="limegreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">limegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 480px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumaquamarine"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumaquamarine</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 485px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 490px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="peru" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">peru</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 495px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slateblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 500px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="yellowgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">yellowgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 505px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkorchid" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkorchid</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 510px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumvioletred"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumvioletred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 515px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="silver" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">silver</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 520px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkkhaki" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkkhaki</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 525px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 530px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="rosybrown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">rosybrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 535px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgoldenrod"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgoldenrod</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 540px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="steelblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">steelblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 545px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="mediumseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">mediumseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 550px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="firebrick" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">firebrick</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 555px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightseagreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightseagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 560px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 565px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 570px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="brown" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">brown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 575px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="cadetblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">cadetblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 580px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="sienna" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">sienna</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 585px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 590px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="lightslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">lightslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 595px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 600px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="slategrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">slategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 605px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olivedrab" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olivedrab</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 610px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkblue" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 615px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkcyan" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkcyan</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 620px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkmagenta"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkmagenta</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 625px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkred" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkred</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 630px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslateblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslateblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 635px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="forestgreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">forestgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 640px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="saddlebrown"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">saddlebrown</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 645px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="seagreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">seagreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 650px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="indigo" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">indigo</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 655px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="gray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">gray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 660px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="green" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">green</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 665px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="grey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">grey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 670px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="maroon" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">maroon</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 675px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="navy" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">navy</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 680px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="olive" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">olive</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 685px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="purple" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">purple</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 690px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="teal" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">teal</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 695px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="midnightblue"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">midnightblue</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 700px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkolivegreen"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkolivegreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 705px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgray" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 710px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="dimgrey" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">dimgrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 715px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkgreen" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkgreen</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 720px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategray"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategray</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 725px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="darkslategrey"
+                   fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">darkslategrey</svg:text>
+      </svg:g>
+      <svg:g transform="translate(0, 730px)">
+         <svg:rect x="0px" y="0px" width="5px" height="5px" color="black" fill="currentColor"
+                   stroke="none"/>
+         <svg:text x="10px" y="4.5px" font-size="4px">black</svg:text>
+      </svg:g>
+   </svg:g>
+</svg:svg>
