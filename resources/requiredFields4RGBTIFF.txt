@@ -1,0 +1,18 @@
+Required Fields for RGB Images
+==============================
+
+TagName                     Decimal Hex Type            Value
+-------                     ------- --- ----            -----
+
+ImageWidth                  256     100 SHORT or LONG
+ImageLength                 257     101 SHORT or LONG
+BitsPerSample               258     102 SHORT           8,8,8
+Compression                 259     103 SHORT           1 or 32773
+PhotometricInterpretation   262     106 SHORT           2
+StripOffsets                273     111 SHORT or LONG
+SamplesPerPixel             277     115 SHORT           3 or more
+RowsPerStrip                278     116 SHORT or LONG
+StripByteCounts             279     117 LONG or SHORT
+XResolution                 282     11A RATIONAL
+YResolution                 283     11B RATIONAL
+ResolutionUnit              296     128 SHORT           1, 2 or 3
