@@ -118,5 +118,5 @@ declare function svg:bound($primitive as element())
 declare function svg:bound-xywh($primitive as element()) 
 	as attribute() 
 {
-	attribute xr:bbox {fn:string-join(('0', '0', '0', '0'), ', ')}
+	attribute xr:bbox {fn:string-join(($primitive/@x, $primitive/@y, $primitive/@width, $primitive/@height), ', ')}
 }; 
