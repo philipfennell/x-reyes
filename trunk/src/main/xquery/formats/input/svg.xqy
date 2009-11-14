@@ -104,9 +104,17 @@ declare function svg:depth-sort($primitives as element()*)
 declare function svg:bound($primitive as element())
 	as element() 
 {
-	element {fn:node-name($primitive)} {
-		$primitive/(@*,	svg:bound-xywh($primitive),	*)
-	}
+	let $bboxAttr as attribute()? := typeswitch ($primitive)
+		case $contextItem as element(svg:rect)
+		return
+			svg:bound-xywh($primitive)
+		default
+		return
+			()
+	return
+		element {fn:node-name($primitive)} {
+			$primitive/(@*,	$bboxAttr, *)
+		}
 }; 
 
 
