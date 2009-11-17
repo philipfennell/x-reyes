@@ -172,11 +172,26 @@ declare function svg:bound-points($primitive as element())
 
 (:
  : Returns the primitive if it is within the screen's view-port.
- : @param $primitive
- : @return 
+ : @param $primitive The graphics primitive to be tested.
+ : @param $viewBox The coordinates of the viewbox.
+ : @return The primitive if it is within the screens viewbox or an empty sequence otherwise.
  :)
 declare function svg:on-screen($primitive as element(), $viewBox as xs:string) 
 	as element()? 
+{
+    if (svg:is-onscreen($primitive, $viewBox)) then $primitive
+    else ()
+};
+
+
+(:
+ : Is the primitive on-screen.
+ : @param $primitive The graphics primitive to be tested.
+ : @param $viewBox The coordinates of the viewbox.
+ : @return true() if the primitive is within the screen's viewbox and false() if not.
+ :)
+declare function svg:is-onscreen($primitive as element(), $viewBox as xs:string)
+	as xs:boolean 
 {
 	let $viewBoxValues as xs:double* := for $n in fn:tokenize($viewBox, $xr:DELIMITER) 
 		return number($n)
@@ -185,7 +200,7 @@ declare function svg:on-screen($primitive as element(), $viewBox as xs:string)
 	let $vbRight 	as xs:double := fn:subsequence($viewBoxValues, $svg:W, 1) + $vbLeft
 	let $vbBottom 	as xs:double := fn:subsequence($viewBoxValues, $svg:H, 1) + $vbTop
 	
-	let $boundingBoxValues as xs:double* := for $n in fn:tokenize($viewBox, $xr:DELIMITER) 
+	let $boundingBoxValues as xs:double* := for $n in fn:tokenize($primitive/@xr:bbox, $xr:DELIMITER) 
 		return number($n)
 	let $bbTop 		as xs:double := fn:subsequence($boundingBoxValues, $xr:TOP, 1)
 	let $bbRight 	as xs:double := fn:subsequence($boundingBoxValues, $xr:RIGHT, 1)
@@ -195,7 +210,7 @@ declare function svg:on-screen($primitive as element(), $viewBox as xs:string)
 	let $horizontalOverlap	as xs:double := ($vbRight - $bbLeft) * ($bbRight - $vbLeft)
     let $verticalOverlap	as xs:double := ($vbTop - $bbBottom) * ($bbTop - $vbBottom)
     
-    return
-    	if (($horizontalOverlap gt 0) and ($verticalOverlap gt 0)) then $primitive
-    	else ()
+    if (($horizontalOverlap gt 0) and ($verticalOverlap gt 0)) then true()
+    else
+    	false()
 }; 
