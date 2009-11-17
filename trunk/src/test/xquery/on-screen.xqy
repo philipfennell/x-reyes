@@ -10,12 +10,11 @@ declare default element namespace "http://www.w3.org/2000/svg";
 
 let $primitives as element()* := 
 	(
-	<rect id="N01" height="64" color="rgb(128,192,255)" fill="currentColor"
-	      	width="80" y="0" x="0" xr:bbox="0 80 64 0"/>,
-	<rect id="N02" height="48" color="rgb(255,192,128)" fill="currentColor"
-			width="64" y="8" x="8" xr:bbox="8 72 56 8"/>,
-	<polygon id="N03" color="rgb(128,192,255)" fill="currentColor" 
-			points="0,0 0,10 10,10 10,0" xr:bbox="0 10 10 0"/>
+	<rect id="N01" x="-20" y="0" width="10" height="10" xr:bbox="0 -10 10 -20"/>,
+	<rect id="N02" x="0" y="-20" width="10" height="10" xr:bbox="-20 10 -10 0"/>,
+	<rect id="N03" x="20" y="0" width="10" height="10" xr:bbox="0 30 10 20"/>,
+	<rect id="N04" x="0" y="20" width="10" height="10" xr:bbox="20 10 30 0"/>,
+	<rect id="N05" x="0" y="0" width="10" height="10" xr:bbox="0 10 10 0"/>
 	)
 return
-	xr:transform($primitives, saxon:function('svg:on-screen', 2), '0 0 80 64')
+	xr:transform($primitives, saxon:function('svg:on-screen', 2), '0 0 16 16')
