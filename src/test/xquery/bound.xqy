@@ -15,4 +15,4 @@ let $primitives as element()* :=
 	<polygon id="N03" points="0,0 0,10 10,10 10,0" fill="currentColor" color="rgb(128,192,255)"/>
 	)
 return
-	xr:transform($primitives, saxon:function('svg:bound', 1))
+	xr:transform($primitives, saxon:function('svg:bound', 2), ())
