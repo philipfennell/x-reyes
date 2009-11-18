@@ -114,7 +114,7 @@ declare function svg:depth-sort($primitives as element()*)
  : @param $primitives
  : @return
  :)
-declare function svg:bound($primitive as element())
+declare function svg:bound($primitive as element(), $args as item()*)
 	as element() 
 {
 	let $bboxAttr as attribute()? := typeswitch ($primitive)
@@ -209,8 +209,8 @@ declare function svg:is-onscreen($primitive as element(), $viewBox as xs:string)
 	
 	let $horizontalOverlap	as xs:double := ($vbRight - $bbLeft) * ($bbRight - $vbLeft)
     let $verticalOverlap	as xs:double := ($vbTop - $bbBottom) * ($bbTop - $vbBottom)
-    
-    if (($horizontalOverlap gt 0) and ($verticalOverlap gt 0)) then true()
-    else
-    	false()
+    return
+	    if (($horizontalOverlap gt 0) and ($verticalOverlap gt 0)) then true()
+	    else
+	    	false()
 }; 
