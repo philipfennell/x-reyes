@@ -14,4 +14,4 @@ let $primitives as element()* :=
 			width="80" y="0" x="0" xr:bbox="0 80 64 0"/>
 	)
 return
-	xr:transform($primitives, saxon:function('svg:diceable', 2), ())
+	xr:transform($primitives, saxon:function('svg:diceable', 2), 16)
