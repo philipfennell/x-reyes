@@ -214,3 +214,20 @@ declare function svg:is-onscreen($primitive as element(), $viewBox as xs:string)
 	    else
 	    	false()
 }; 
+
+
+
+
+(: === Diceable Test. ======================================================= :)
+
+(:
+ : 
+ : @param 
+ : @return
+ :)
+declare function svg:dice($primitive as element(), $bucketSize as xs:double)
+	as element()*
+{
+	<xr:result>{$bucketSize}</xr:result>
+}; 
+
