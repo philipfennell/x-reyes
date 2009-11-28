@@ -129,7 +129,7 @@ declare function svg:bound($primitive as element(), $args as item()*)
 			()
 	return
 		element {fn:node-name($primitive)} {
-			$primitive/(@*,	$bboxAttr, *)
+			$primitive/(@* except @xr:bbox,	$bboxAttr, *)
 		}
 }; 
 
@@ -227,9 +227,9 @@ declare function svg:is-onscreen($primitive as element(), $viewBox as xs:string)
  : @return
  :)
 declare function svg:dice($primitive as element(), $bucketSize as xs:integer)
-	as element()*
+	as element()+
 {
-	let $maxGridSize as xs:double := $bucketSize * $bucketSize
+	let $maxGridSize as xs:integer := $bucketSize * $bucketSize
 	let $boundingBoxValues as xs:double* := for $n in fn:tokenize($primitive/@xr:bbox, $xr:DELIMITER) 
 		return number($n)
 	let $bbTop 		as xs:double := fn:subsequence($boundingBoxValues, $xr:TOP, 1)
@@ -239,15 +239,19 @@ declare function svg:dice($primitive as element(), $bucketSize as xs:integer)
 	let $width		as xs:double := $bbRight - $bbLeft
 	let $height		as xs:double := $bbBottom - $bbTop
 	let $area		as xs:double := $width * $height
-	
-	if ($primitive/@xr:diceable = 'true')
-	then $primitive
-	else if ($area gt $maxGridSize)
-	then
-		let $splitAndBoundPrimitives as element()+ := 
-			svg:bound(svg:split($primitive)))
-	else
-		svg:diceable($primitive, true())
+	return
+		if ($primitive/@xr:diceable = 'true')
+		then $primitive
+		else if ($area gt $maxGridSize)
+		then
+			let $splitAndBoundPrimitives as element()+ := 
+				for $splitPrim in svg:split($primitive) return 
+						svg:bound($splitPrim, '0 0 80 64')
+			return
+				for $boundPrim in $splitAndBoundPrimitives return
+						svg:dice($boundPrim, $bucketSize)
+		else
+			svg:diceable($primitive, true())
 }; 
 
 
@@ -270,19 +274,49 @@ declare function svg:split($primitive as element())
 (:
  : Splits a rectangle in half across it's longest edge.
  : @param $primitive
- : @return
+ : @return Two rectangles half the size of the original.
  :)
 declare function svg:split-rect($primitive as element()) 
 as element(svg:rect)+ 
 {
-	if ($primitive/@height gt $primitive/@width)
+	if (number($primitive/@height) gt number($primitive/@width))
 	then
-		(:split height:)
+		let $topHalf as element() := 
+		element {fn:name($primitive)} {
+			$primitive/(@* except (@height, @xr:bbox)),
+			attribute height {
+				number($primitive/@height) div 2
+			},
+			$primitive/*
+		}
+		return
+		($topHalf,
+		element {fn:name($topHalf)} {
+			$primitive/(@* except @y),
+			attribute y {
+				number($topHalf/@y + number($topHalf/@height))
+			},
+			$primitive/*
+		})
 	else
-		(:split width:)
+		let $leftHalf as element() := 
+		element {fn:name($primitive)} {
+			$primitive/(@* except (@width, @xr:bbox)),
+			attribute width {
+				number($primitive/@width) div 2
+			},
+			$primitive/*
+		}
+		return
+		($leftHalf,
+		element {fn:name($leftHalf)} {
+			$primitive/(@* except @x),
+			attribute x {
+				number($leftHalf/@x + number($leftHalf/@width))
+			},
+			$primitive/*
+		})
 };
-
-
 
 
 (:
@@ -294,7 +328,7 @@ declare function svg:diceable ($primitive as element(), $isDiceable as xs:boolea
 	as element() 
 {
 	element {name($primitive)} {
-		$primitive@*,
+		$primitive/@*,
 		attribute xr:diceable {$isDiceable},
 		$primitive/*
 	}
