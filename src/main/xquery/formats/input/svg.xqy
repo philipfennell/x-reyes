@@ -222,12 +222,80 @@ declare function svg:is-onscreen($primitive as element(), $viewBox as xs:string)
 
 (:
  : 
- : @param 
+ : @param $primitive
+ : @param $bucketSize
  : @return
  :)
-declare function svg:dice($primitive as element(), $bucketSize as xs:double)
+declare function svg:dice($primitive as element(), $bucketSize as xs:integer)
 	as element()*
 {
-	<xr:result>{$bucketSize}</xr:result>
+	let $maxGridSize as xs:double := $bucketSize * $bucketSize
+	let $boundingBoxValues as xs:double* := for $n in fn:tokenize($primitive/@xr:bbox, $xr:DELIMITER) 
+		return number($n)
+	let $bbTop 		as xs:double := fn:subsequence($boundingBoxValues, $xr:TOP, 1)
+	let $bbRight 	as xs:double := fn:subsequence($boundingBoxValues, $xr:RIGHT, 1)
+	let $bbBottom 	as xs:double := fn:subsequence($boundingBoxValues, $xr:BOTTOM, 1)
+	let $bbLeft 	as xs:double := fn:subsequence($boundingBoxValues, $xr:LEFT, 1)
+	let $width		as xs:double := $bbRight - $bbLeft
+	let $height		as xs:double := $bbBottom - $bbTop
+	let $area		as xs:double := $width * $height
+	
+	if ($primitive/@xr:diceable = 'true')
+	then $primitive
+	else if ($area gt $maxGridSize)
+	then
+		let $splitAndBoundPrimitives as element()+ := 
+			svg:bound(svg:split($primitive)))
+	else
+		svg:diceable($primitive, true())
 }; 
 
+
+(:
+ : Splits the primitive in two.
+ : @param $primitive
+ : @return 
+ :)
+declare function svg:split($primitive as element()) 
+	as element()+ 
+{
+	typeswitch ($primitive)
+	case $contextItem as element(svg:rect)
+	return svg:split-rect($primitive)
+	default 
+	return svg:diceable($primitive, false())
+};
+
+
+(:
+ : Splits a rectangle in half across it's longest edge.
+ : @param $primitive
+ : @return
+ :)
+declare function svg:split-rect($primitive as element()) 
+as element(svg:rect)+ 
+{
+	if ($primitive/@height gt $primitive/@width)
+	then
+		(:split height:)
+	else
+		(:split width:)
+};
+
+
+
+
+(:
+ : Sets the diceable state of the primitive.
+ : @param $isDiceable 
+ : @return 
+ :)
+declare function svg:diceable ($primitive as element(), $isDiceable as xs:boolean) 
+	as element() 
+{
+	element {name($primitive)} {
+		$primitive@*,
+		attribute xr:diceable {$isDiceable},
+		$primitive/*
+	}
+};
