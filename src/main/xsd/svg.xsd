@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		xmlns:svg="http://www.w3.org/2000/svg"
+		targetNamespace="http://www.w3.org/2000/svg">
+	
+	<xs:simpleType name="length">
+		<xs:restriction base="xs:integer"/>
+	</xs:simpleType>
+	
+	<xs:attribute name="id" type="xs:ID"/>
+	
+	<xs:attribute name="fill"/>
+	
+	<xs:attribute name="color"/>
+	
+	<xs:attribute name="x" type="svg:length"/>
+	<xs:attribute name="y" type="svg:length"/>
+	<xs:attribute name="width" type="svg:length"/>
+	<xs:attribute name="height" type="svg:length"/>
+	
+	<xs:element name="svg"/>
+	
+	<xs:element name="rect">
+		<xs:complexType>
+			<xs:attribute name="id" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="polygon">
+		<xs:complexType>
+			<xs:attribute name="id" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
