@@ -4,6 +4,9 @@
 		targetNamespace="http://www.w3.org/2000/svg">
 	
 	<xs:simpleType name="length">
+		<xs:annotation>
+			<xs:documentation></xs:documentation>
+		</xs:annotation>
 		<xs:restriction base="xs:integer"/>
 	</xs:simpleType>
 	
@@ -18,17 +21,31 @@
 	<xs:attribute name="width" type="svg:length"/>
 	<xs:attribute name="height" type="svg:length"/>
 	
+	<xs:attributeGroup name="common">
+		<xs:attribute ref="svg:id"/>
+		<xs:attribute ref="svg:fill"/>
+		<xs:attribute ref="svg:color"/>
+	</xs:attributeGroup>
+	
+	<xs:attributeGroup name="boxAttrs">
+		<xs:attribute ref="svg:x"/>
+		<xs:attribute ref="svg:y"/>
+		<xs:attribute ref="svg:width"/>
+		<xs:attribute ref="svg:height"/>
+	</xs:attributeGroup>
+	
 	<xs:element name="svg"/>
 	
 	<xs:element name="rect">
 		<xs:complexType>
-			<xs:attribute name="id" type="xs:ID"/>
+			<xs:attributeGroup ref="svg:common"/>
+			<xs:attributeGroup ref="svg:boxAttrs"/>
 		</xs:complexType>
 	</xs:element>
 	
 	<xs:element name="polygon">
 		<xs:complexType>
-			<xs:attribute name="id" type="xs:ID"/>
+			<xs:attributeGroup ref="svg:common"/>
 		</xs:complexType>
 	</xs:element>
 </xs:schema>
