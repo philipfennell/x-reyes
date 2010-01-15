@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<xs:schema 
 		xmlns:svg="http://www.w3.org/2000/svg"
+		xmlns:xr="http://code.google.com/p/x-reyes/"
+		xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		attributeFormDefault="unqualified"
+		elementFormDefault="qualified"
 		targetNamespace="http://www.w3.org/2000/svg">
 	
-	<xs:simpleType name="length">
+	<xs:import namespace="http://code.google.com/p/x-reyes/" schemaLocation="x-reyes.xsd"/>
+	
+	<xs:simpleType name="number">
 		<xs:annotation>
 			<xs:documentation></xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:integer"/>
 	</xs:simpleType>
 	
+	<xs:simpleType name="boundingBox">
+		
+	</xs:simpleType>
+	
 	<xs:attribute name="id" type="xs:ID"/>
+	<xs:attribute name="class" type="xs:ID"/>
 	
 	<xs:attribute name="fill"/>
-	
 	<xs:attribute name="color"/>
 	
-	<xs:attribute name="x" type="svg:length"/>
-	<xs:attribute name="y" type="svg:length"/>
-	<xs:attribute name="width" type="svg:length"/>
-	<xs:attribute name="height" type="svg:length"/>
+	<xs:attribute name="viewBox" type="svg:boundingBox"/>
+	
+	<xs:attribute name="x" type="svg:number"/>
+	<xs:attribute name="y" type="svg:number"/>
+	<xs:attribute name="width" type="svg:number"/>
+	<xs:attribute name="height" type="svg:number"/>
 	
 	<xs:attributeGroup name="common">
 		<xs:attribute ref="svg:id"/>
+	</xs:attributeGroup>
+	
+	<xs:attributeGroup name="color">
 		<xs:attribute ref="svg:fill"/>
 		<xs:attribute ref="svg:color"/>
 	</xs:attributeGroup>
@@ -34,12 +49,23 @@
 		<xs:attribute ref="svg:height"/>
 	</xs:attributeGroup>
 	
-	<xs:element name="svg"/>
+	<xs:element name="svg">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="svg:rect" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="svg:polygon" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute ref="svg:width"/>
+			<xs:attribute ref="svg:height"/>
+			<xs:attribute ref="svg:viewBox"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
 	
 	<xs:element name="rect">
 		<xs:complexType>
 			<xs:attributeGroup ref="svg:common"/>
 			<xs:attributeGroup ref="svg:boxAttrs"/>
+			<xs:attribute ref="xr:bbox" />
 		</xs:complexType>
 	</xs:element>
 	

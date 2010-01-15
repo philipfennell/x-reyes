@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xr="http://code.google.com/p/x-reyes/"
-	targetNamespace="http://code.google.com/p/x-reyes/">
+<xs:schema 
+		xmlns:xr="http://code.google.com/p/x-reyes/"
+		xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+		attributeFormDefault="qualified"
+		targetNamespace="http://code.google.com/p/x-reyes/">
 	
 	<xs:simpleType name="bounding-box">
 		<xs:restriction base="xs:string"/>
