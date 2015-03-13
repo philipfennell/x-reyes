@@ -1,0 +1,1 @@
+X-Reyes is an experimental implementation of the Reyes Image Rendering Architecture. It takes as its input SVG, uses XML for data structures and either XSLT or XQuery  for processing the model.
