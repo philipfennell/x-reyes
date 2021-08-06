@@ -148,8 +148,6 @@
     
     <xsl:message>image byte count = '<xsl:value-of select="count($image)"/>'</xsl:message>
     
-    
-    
     <xsl:sequence select="$header, $image, $ifd, $offsetValues"/>
   </xsl:function>
   

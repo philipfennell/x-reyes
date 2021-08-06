@@ -13,7 +13,8 @@
     extension-element-prefixes="math saxon"
     exclude-result-prefixes="fn pxf svg tiff xdt xr xs">
 
-  <xsl:output method="text" indent="no" encoding="UTF-8" media-type="application/base64"/>
+  <xsl:output method="saxon:hexBinary" media-type="image/tiff"/>
+  <!--<xsl:output method="text" indent="no" encoding="UTF-8" media-type="application/base64"/>-->
     
   <xsl:output name="debug" method="xml" indent="yes" encoding="UTF-8" media-type="text/xml"/>
   <xsl:output name="structure" method="xml" indent="yes" encoding="UTF-8" media-type="text/xml"/>
@@ -36,7 +37,7 @@
   
   
   <!-- Core pipeline processing templates. -->
-  <xsl:include href="core-pipeline.xslt"/>
+  <xsl:include href="core-pipeline.xsl"/>
   
   <!-- Input processing templates -->
   <xsl:include href="../formats/input/prev-svg.xsl"/>
@@ -54,7 +55,7 @@
   
   
   <!-- The file defining the steps in the processing pipeline. -->
-  <xsl:variable name="pipeline" select="document('../../pipelines/svg-reyes.xml')"/>
+  <xsl:variable name="pipeline" as="document-node()" select="document('../../resources/pipelines/svg-reyes.xml')"/>
   
   
   <!-- Pipeline processing options, independent of the model being transformed. -->
@@ -66,12 +67,18 @@
       <xsl:when test="$localOptions = ''">
         <xsl:message>Default options: <xsl:value-of select="$pipeline/pipeline/options/@href"/>
         </xsl:message>
-        <xsl:sequence select="document($pipeline/pipeline/options/@href)/options"/>
+        <!--<xsl:sequence select="document($pipeline/pipeline/options/@href)/options"/>-->
+        <options pipeline="svg-reyes" mode="normal"><!-- normal | debug -->
+          <pipeline/><!--  stop-after="svg:bucket-processor" -->
+          <bucket size="16"/>
+          <shading rate="1"/>
+          <image resolution="72" resUnits="dpi" format="tiff" channels="rgb" bitDepth="8"/>
+        </options>
       </xsl:when>
       <xsl:otherwise>
         <xsl:message>Local options: <xsl:value-of select="$localOptions"/>
         </xsl:message>
-        <xsl:sequence select="document($localOptions)/options"/>
+        <xsl:sequence select="document($localOptions)/*:options"/>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:function>
@@ -100,7 +107,7 @@
   <!-- Catch-all to be used when you are not specifying an initial mode. -->
   <xsl:template match="/">
     <xsl:choose>
-      <xsl:when test="xr:pipelineOptions()/@mode = 'debug'">
+      <xsl:when test="xr:pipelineOptions()/@mode eq 'debug'">
         <xsl:apply-templates mode="debug"/>
       </xsl:when>
       <xsl:otherwise>
@@ -126,16 +133,17 @@
   
   <!--  -->
   <xsl:template match="/" mode="tiff">
-    <xsl:variable name="formatedImageStream">
-      <xsl:value-of select="tiff:render()"/>
+    <xsl:variable name="formatedImageStream" as="xs:integer*">
+      <xsl:sequence select="tiff:render()"/>
     </xsl:variable>
-    <xsl:message>stream count = <xsl:value-of select="count(tokenize($formatedImageStream, ' '))"/></xsl:message>
+    <xsl:message>stream count = <xsl:value-of select="count($formatedImageStream)"/></xsl:message>
     
     <xsl:result-document href="structure.xml" format="structure">
       <xsl:copy-of select="$structure"/>
     </xsl:result-document>
     
-    <xsl:value-of select="saxon:octets-to-base64Binary(tokenize($formatedImageStream, ' '))"/>
+    <xsl:sequence select="saxon:octets-to-hexBinary($formatedImageStream)"/>
+    <!--<xsl:value-of select="saxon:octets-to-base64Binary($formatedImageStream)"/>-->
     <!-- <xsl:value-of select="pxf:sequence2Base64(tokenize($formatedImageStream, ' '))"/> -->
   </xsl:template>
   

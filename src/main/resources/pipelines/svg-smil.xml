@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pipeline xmlns:svg="http://www.w3.org/2000/svg" name="svg-smil">
+  <options href="../options/svg-smil.xml"/>
+  <steps><!--  stop="after" --><!--  skip="yes" -->
+    <svg:read/>
+    <svg:layer/>
+    <svg:animate/>
+    <svg:timeline/>
+    <svg:app-wrap/>
+    <svg:write/>
+  </steps>
+</pipeline>

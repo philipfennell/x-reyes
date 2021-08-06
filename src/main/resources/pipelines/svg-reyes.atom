@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <pipeline xmlns:svg="http://www.w3.org/2000/svg" name="svg-reyes">
+  <options href="../options/svg-reyes.xml"/>
+  <steps>
+    <svg:read/>
+    <svg:depth-sort/>
+    <svg:bound/>
+    <svg:on-screen/>
+    <svg:diceable>
+      <svg:bound/>
+      <svg:on-screen/>
+    </svg:diceable>
+    <svg:bucket-sort/>
+    <svg:dice/>
+    <svg:shade/>
+    <svg:sample/>
+    <svg:visibility/>
+    <svg:filter/>
+    <svg:format/>
+  </steps>
+</pipeline> -->
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xml:base="???"
+    xml:lang="en-gb">
+  <title>SVG Reyes Pipeline</title>
+  <id>???</id>
+  <link rel="self" href="???" />
+  <logo>???.jpg</logo>
+  <icon>/favicon.ico</icon>
+  <updated>YYYY-MM-DDTHH:MM:SS-ZZ:ZZ</updated><!-- Dates must be in RFC 3339 format. -->
+  <author>
+    <name>Philip A. R. Fennell</name>
+  </author>
+  <subtitle>SVG rendering pipeline</subtitle>
+  <rights>????</rights>
+  <generator uri="????">????</generator>
+  <entry xml:base="????">
+    <title>Read SVG source file</title>
+    <link href="???"/><!-- link to transform file, maybe an xpointer (XPath) to xsl:template. -->
+    <id>????</id><!-- Unique identifier in transform file for pipeline step? -->
+    <published>YYYY-MM-DDTHH:MM:SS-ZZ:ZZ</published>
+    <updated>YYYY-MM-DDTHH:MM:SS-ZZ:ZZ</updated>
+    <category scheme="????" term="????"/><!-- Would you want, or need, to categories a processing step? 
+      Well, what about having a library of processing steps that you could query and then pick those
+      need for the task-in-hand. Assemble the pipeline (need dependencies) and run! -->
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"></div>
+    </summary>
+    <content type="svg">
+      <svg:read xmlns:svg="http://www.w3.org/2000/svg"/>
+    </content>
+  </entry>
+</feed>
