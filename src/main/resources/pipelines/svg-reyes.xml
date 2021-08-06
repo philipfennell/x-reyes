@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pipeline xmlns:svg="http://www.w3.org/2000/svg" name="svg-reyes">
-  <options href="../../resources/options/svg-reyes.xml"/>
+<pipeline xmlns:svg="http://www.w3.org/2000/svg" name="svg-reyes"
+    xml:base="../../">
+  <options href="resources/options/svg-reyes.xml"/>
   <steps>
     <svg:read/>
     <svg:depth-sort/>

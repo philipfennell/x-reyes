@@ -11,7 +11,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     extension-element-prefixes="math saxon"
-    exclude-result-prefixes="fn pxf svg tiff xdt xr xs">
+    exclude-result-prefixes="fn pxf svg tiff xdt xr xs"
+    xml:base="../../">
 
   <xsl:output method="saxon:hexBinary" media-type="image/tiff"/>
   <!--<xsl:output method="text" indent="no" encoding="UTF-8" media-type="application/base64"/>-->
@@ -37,16 +38,16 @@
   
   
   <!-- Core pipeline processing templates. -->
-  <xsl:include href="core-pipeline.xsl"/>
+  <xsl:include href="xslt/pipelines/core-pipeline.xsl"/>
   
   <!-- Input processing templates -->
-  <xsl:include href="../formats/input/prev-svg.xsl"/>
+  <xsl:include href="xslt/formats/input/prev-svg.xsl"/>
   
   <!-- Output format templates. -->
-  <xsl:include href="../formats/output/tiff.xsl"/>
+  <xsl:include href="xslt/formats/output/tiff.xsl"/>
   
   <!-- Image stream encoder. -->
-  <xsl:include href="../encoders/base64Optimized.xsl"/>
+  <xsl:include href="xslt/encoders/base64Optimized.xsl"/>
   
   
   <!-- URL pointing to an options file to be used for the context transformation. -->
@@ -55,7 +56,7 @@
   
   
   <!-- The file defining the steps in the processing pipeline. -->
-  <xsl:variable name="pipeline" as="document-node()" select="document('../../resources/pipelines/svg-reyes.xml')"/>
+  <xsl:variable name="pipeline" as="document-node()" select="document('resources/pipelines/svg-reyes.xml')"/>
   
   
   <!-- Pipeline processing options, independent of the model being transformed. -->
@@ -67,13 +68,7 @@
       <xsl:when test="$localOptions = ''">
         <xsl:message>Default options: <xsl:value-of select="$pipeline/pipeline/options/@href"/>
         </xsl:message>
-        <!--<xsl:sequence select="document($pipeline/pipeline/options/@href)/options"/>-->
-        <options pipeline="svg-reyes" mode="normal"><!-- normal | debug -->
-          <pipeline/><!--  stop-after="svg:bucket-processor" -->
-          <bucket size="16"/>
-          <shading rate="1"/>
-          <image resolution="72" resUnits="dpi" format="tiff" channels="rgb" bitDepth="8"/>
-        </options>
+        <xsl:sequence select="document($pipeline/pipeline/options/@href)/options"/>
       </xsl:when>
       <xsl:otherwise>
         <xsl:message>Local options: <xsl:value-of select="$localOptions"/>
